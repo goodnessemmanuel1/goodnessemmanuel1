@@ -10,7 +10,7 @@
 ```
  
 ### Hi there, I'm **Goodness Emmanuel** 👋
-#### Front-End Developer · UI Craftsman · React Enthusiast
+#### Front-End Developer · Building User Interfaces · React Enthusiast
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goodness-emmanuel-005505268)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
